@@ -18,6 +18,6 @@ rb() {
 }
 
 uu() {
-    git fetch upstream;
-    git merge upstream/master;
+    git fetch $1;
+    git merge $1/master;
 }
