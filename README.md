@@ -1,2 +1,1 @@
-# .bashrc
-my private bashrc and bash_profile files. :blobmorning:
+my private config files for git bash and hyper terminal.
